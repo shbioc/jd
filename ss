@@ -7,4 +7,3 @@ vless://7be5b1ed-2002-486f-b2e4-948d52e47b29@141.101.121.201:2082?encryption=non
 vless://7be5b1ed-2002-486f-b2e4-948d52e47b29@160.79.104.89:2082?encryption=none&security=none&fp=randomized&type=ws&host=v2ray.6hkj1oup.workers.dev&path=%2F%3Fed%3D2048#US-2
 vless://7be5b1ed-2002-486f-b2e4-948d52e47b29@160.79.104.24:2082?encryption=none&security=none&fp=randomized&type=ws&host=v2ray.6hkj1oup.workers.dev&path=%2F%3Fed%3D2048#US-2
 vless://7be5b1ed-2002-486f-b2e4-948d52e47b29@141.101.121.242:2082?encryption=none&security=none&fp=randomized&type=ws&host=v2ray.6hkj1oup.workers.dev&path=%2F%3Fed%3D2048#US-2
-vless://7be5b1ed-2002-486f-b2e4-948d52e47b29@141.101.123.88:2082?encryption=none&security=none&fp=randomized&type=ws&host=v2ray.6hkj1oup.workers.dev&path=%2F%3Fed%3D2048#US-2
